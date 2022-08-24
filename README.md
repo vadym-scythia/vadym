@@ -1,5 +1,5 @@
 - 👋 Hi, I’m software dev from Ukraine. 
-- 👀 I’m interested in SICP, .NET/C#, different funcy stuff,problems of versioning, computer science fundamentals, cybernetics.
+- 👀 I’m interested in SICP, .NET/C#, different funcy stuff, problems of versioning (I imagined those problems actually :) ), computer science fundamentals, cybernetics.
 - 🌱 I’m currently learning SICP.
 - 📫 How to reach me https://www.linkedin.com/in/vadym-mandrichenko
 
